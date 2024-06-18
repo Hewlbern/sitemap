@@ -1,0 +1,81 @@
+# Dependency directories
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Testing
+coverage/
+.nyc_output/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js static files
+/static/
+
+# Next.js cache
+.cache/
+.cache-loader/
+
+# IDE/Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Optional Prettier cache
+.prettier-cache
+
+# Output of 'yarn pack', 'npm pack' or 'pnpm pack'
+*.tgz
+
+# dotenv environment variables file
+.env.*.local
+
+# Firebase build
+.firebase/
+.firebase/
+.firebase_cache/
+
+# Nuxt.js build output
+.nuxt/
+
+# Storybook build output
+.out/
+
+# Sapper build output
+__sapper__/
+
+# temporary files
+*.tmp
+*.temp
